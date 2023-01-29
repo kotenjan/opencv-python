@@ -1,1 +1,1 @@
-This repository contains tools that deal with image segmentation among other things. A short demonstration of it's functionality can be viewed in [demo](demo.ipynb)
+This repository contains tools that use OpenCV library implement more complex operations and functionality. A short demonstration of it's functionality can be viewed in [demo](demo.ipynb)
