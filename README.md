@@ -4,7 +4,7 @@ This repository contains tools that use OpenCV library and implement more comple
 
 ## Overview
 
-The `preparation.ipynb` notebook is a comprehensive guide designed to help users set up and utilize OpenCV for various computer vision tasks. This notebook covers the following key areas:
+The `preparation.ipynb` notebook is utilizing OpenCV for various computer vision tasks. The notebook covers the following key areas:
 
 1. **Environment Setup**: Instructions for setting up the necessary Python environment and installing OpenCV.
 2. **Loading and Displaying Images**: Techniques for loading images from disk and displaying them using OpenCV and matplotlib.
@@ -19,9 +19,7 @@ The `preparation.ipynb` notebook is a comprehensive guide designed to help users
 11. **Image Contours**: Detecting and drawing contours on images.
 12. **Object Detection**: Techniques for detecting objects within images using Haar cascades.
 
-## Usage
-
-### Environment Setup
+## Environment Setup
 
 To get started, ensure you have Python and OpenCV installed. You can install the necessary packages using pip:
 
