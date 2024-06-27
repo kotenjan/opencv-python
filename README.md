@@ -18,7 +18,6 @@ The `preparation.ipynb` notebook is a comprehensive guide designed to help users
 10. **Histograms**: Understanding and plotting image histograms to analyze image intensity distributions.
 11. **Image Contours**: Detecting and drawing contours on images.
 12. **Object Detection**: Techniques for detecting objects within images using Haar cascades.
-13. **Conclusion**: Summary of the tasks covered and additional resources for further learning.
 
 ## Usage
 
